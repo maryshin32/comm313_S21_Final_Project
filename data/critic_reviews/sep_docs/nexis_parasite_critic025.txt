@@ -1,0 +1,34 @@
+
+
+
+Mark Ruffalo is being lined up to star in ‘Parasite’ HBO TV adaptation
+New Musical Express
+February 11, 2020 Tuesday
+
+ Copyright 2020 Bandlab UK Limited All Rights Reserved
+Length: 596 words
+Byline: Damian Jones
+Body
+
+
+
+
+Mark Ruffalo could be set to star in a HBO TV adaptation of the Oscar winning movie Parasite. 
+The Avengers star is reportedly being lined up for a role according to Collider with sources claiming there “is interest on both sides of the negotiation table”. 
+It is thought Ruffalo may portray Kim Ki-taek – played in the film by Song Kang-ho – the embattled patriarch of the lower-class family in focus. 
+•	Read more: Parasite review: Bong Joon-ho’s darkly comic thriller is a modern masterpiece (yes, even with subtitles)
+It remains unclear whether the series will be a longer-form version of Bong Joon-ho’s  Korean film or if it will be a spin off in the same vein as HBO’s recent Watchmen series.  
+#Oscars Moment: Bong Joon Ho accepts the Oscar for Best Directing for Parasite Movie.            pic.twitter.com/WNeIZXZjDA
+— Ardit Luciano (@Ardit_Luciano) February 10, 2020
+Ruffalo, is already set to appear in another HBO television project, a seven-episode drama titled I Know This Much Is True. 
+Parasite dominatedthis year’s Oscars, taking home Best International Film, Best Original Screenplay, Best Director and Best Picture. It was the first South Korean movie to win an Oscar and the first non-English language film to take home Best Picture. 
+In a five star review, NME described Parasite as a “darkly comic thriller” and “a modern masterpiece”. 
+Meanwhile, Ruffalo recently discussed whether ‘Avengers: Endgame’ could be his last appearance in the            Marvel Cinematic Universe. 
+Appearing on the Graham Norton Show, he was asked whether he could star in another edition of the popular franchise.     
+                                                                                   (function() {             var videoElem = document.getElementById("jwplayer-video-dMCE6EtN-TADMMIT9");             jQuery.get("https://cdn.jwplayer.com/v2/media/dMCE6EtN?format=mrss", function(data) {               var title = jQuery(data).find("title")[0].innerHTML;               var description = jQuery(data).find("description")[0].innerHTML;               var pubDate = jQuery(data).find("pubDate")[0].innerHTML;               videoElem.querySelector("meta[itemprop=name]").setAttribute("content", title);               videoElem.querySelector("meta[itemprop=description]").setAttribute("content", description.length > 0 ? description : title);               videoElem.querySelector("meta[itemprop=uploadDate]").setAttribute("content", pubDate);             });             jwplayer().on("ready", function() {                 var durationString = videoElem.querySelector(".jw-text-duration").innerHTML;                 var matchesMS = durationString.match(/([0-9][0-9]):([0-9][0-9])/);                 var durationISO8601 = "PT";                 if (matchesMS) {                   durationISO8601 += +matchesMS[1] + "M" + +matchesMS[2] + "S"                 } else {                   var matchesHMS = durationString.match(/([0-9][0-9]):([0-9][0-9]):([0-9][0-9])/);                   durationISO8601 += +matchesHMS[1] + "H" +matchesHMS[1] + "M" + +matchesHMS[2] + "S"                 }                 videoElem.querySelector("meta[itemprop=duration]").setAttribute("content", durationISO8601);             });           })();                 
+“I don’t know,” the actor responded, before dramatically covering his mouth. “Who knows really? It is supposed to be over and that was supposed to be the end.” 
+The post Mark Ruffalo is being lined up to star in ‘Parasite’ HBO TV adaptation appeared first on            NME Music News, Reviews, Videos, Galleries, Tickets and Blogs | NME.COM. 
+ Load-Date: February 11, 2020
+
+ 
+

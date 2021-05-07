@@ -1,10 +1,8 @@
-## Progress presentation for COMM313 Final Project
+# Progress presentation for COMM313 Final Project
 
-* This folder should contain the files for your project progress presentation.
+Welcome! In this folder, I have one notebook that contains my brief mid-progress presentation that I gave in class about my project. The notebook is in the format of presentation slides, and has the following information: 
 
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. Share 1 or 2 interesting findings from your analysis so far.
-
-* Update this README file to describe the presentation.
+* Introduction - research question and hypothesis
+* Data collection - explanation of how I collected my data so far, descriptives, and dimensions
+* Initial data analysis and results - display of truncated analysis steps and code: dividing the data into positive and negative reviews, sentiment analysis using VADER; and the results of these analyses
+* Next steps - plans for where to collect more data (Rotten Tomatoes), other analyses to run and sub-hypotheses to think about
