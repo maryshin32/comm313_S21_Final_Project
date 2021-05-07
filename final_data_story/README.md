@@ -6,7 +6,7 @@ You have now arrived at the end of my project! As a reminder, throughout my rese
 
 Overall, it seems that my hypothesis is supported: Based on the movie reviews I analyzed, _Parasite_ has been more well-received (more positive ratings, higher positive sentiment scores) than _The Host_ !
 
-My research and data analysis has culminatined into a final data story, which is in the form of a data-driven blog article.
+My research and data analysis have culminated into a final data story, which is in the form of a data-driven blog article.
 
 I have published my story on Medium.com, and my target audience is broad, but in general can include anyone interested in Director Bong Joon-Ho, South Korean film and entertainment, American public movie review sites, sentiment analysis, or broad data science/visualization. I hope this can open up more conversations around international films and that the American public can embrace diverse origins and genres of cinema.
 
